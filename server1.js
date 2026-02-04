@@ -1,0 +1,7 @@
+const http=require("http");
+const fs=require("fs");
+const server=http.createServer((ree,res)=>{
+    if(req.url==="/"){
+        let html=fs.readFileSync("")
+    }
+})

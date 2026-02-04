@@ -1,0 +1,13 @@
+*{
+    font-family:'Courier New', Courier, monospace;
+}
+
+h1{
+    color:bisque;
+}
+li{
+    background-color: rgb(214, 146, 146);
+    margin: 10px;
+    padding:10px;
+    list-style:none;
+}
